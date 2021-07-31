@@ -1,1 +1,1 @@
-Um Simples Port scanner feito em python3.
+A Simple port scanner made in python 3.
