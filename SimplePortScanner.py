@@ -3,7 +3,7 @@
 import socket
 import sys
 
-# https://youtube.com/c/MatheuZSecuriy
+# https://youtube.com/c/MatheuZSecurity
 
 def banner():
        print("""
@@ -17,7 +17,7 @@ def banner():
        @,----.JM|
       JS^\__/  qKL
     dZP        qKRb
-    dZP          qKKb    Criado Por Matheuz Security
+    dZP          qKKb    Created by Matheuz Security
    fZP            SMMb
    HZM            MMMM        Simple Port Scan
    FqM            MMMM
